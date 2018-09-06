@@ -23,9 +23,10 @@ ___
 * [How to write a self reproducing code (prints the source on exec)? - StackOverflow](https://stackoverflow.com/questions/105725/how-to-write-a-self-reproducing-code-prints-the-source-on-exec)
 * [Evolving a Self-Replicating Program](http://www.ooblick.com/software/evolve/)
 * [The Quine Page](https://www.nyx.net/~gthompso/quine.htm)
-* [The Qlobe](http://mamememo.blogspot.com/2010/09/qlobe.html)
+* [Spinning globe embedded in JavaScript code](http://aem1k.com/world/)
 * [The Ouroboros Model](https://arxiv.org/abs/0805.2815)
 * [Constructor Theory of Life](https://arxiv.org/abs/1407.0681)
 * [Theory of self-reproducing automata](https://archive.org/details/theoryofselfrepr00vonn_0)
+* [2017 : WHAT SCIENTIFIC TERM OR CONCEPT OUGHT TO BE MORE WIDELY KNOWN?](https://www.edge.org/response-detail/27091)
 											
 ---
